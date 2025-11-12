@@ -9,15 +9,6 @@
 - Ticket purchase by users
 - Email confirmation of ticket purchase
 
-## Group members
-
-| No. | Name | Section | ID |
-| -------- | -------- | -------- | -------- |
-| 1 | Tiruzer Tsedeke | 2 | UGR/6836/13 |
-| 2 | Yosef Ayele | 4 | UGR/2067/13 |
-| 3 | Leul Degarege | 4 | UGR/6806/13 |
-| 4 | Samuel Godad | 4 | UGR/4642/13 |
-| 5 | Mihretab Nigussie | 3 | UGR/5065/13 |
 
 ## Technologies Used
 - Flutter
